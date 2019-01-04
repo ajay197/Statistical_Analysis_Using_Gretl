@@ -2,8 +2,8 @@
 
 Regression Model has been prepared by using <b>Gretl Analysis Tool</b>.
 
-Using this regression model, Salary has been predicted w.r.t. Experience in years.
+Using this regression model, <b>Salary</b> has been predicted w.r.t. <b>Experience</b> in years.
 
-Background Elimination Method has been used to find the desired variables that could be used in modelling.
+<b>Background Elimination Method</b> has been used to find the desired variables that could be used in modelling.
   
   
