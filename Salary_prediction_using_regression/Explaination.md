@@ -23,6 +23,9 @@ A model will result with the most accuracy only if the variables used are valuab
    - In background selection method, all the variables are considered at once and then the varaibles with the highest p-value ( < 0.05) will be eleminated.
    - After every elemination, the model need to be recreated for the effect on the model.
    - When we are left with the variables having p-values ( < 0.05 ), those variables will be considered for the model development.
+   
+ ## Modelling
+   Finally, the <b>Salary</b> and <b>Experience in years</b> are the two variables found related <b>(also known as Correletaion)</b> to produce the best fitting line for the further salary predictions.    
  
  
    
