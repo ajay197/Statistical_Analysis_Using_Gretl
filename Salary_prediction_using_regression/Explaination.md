@@ -1,4 +1,9 @@
-# Regression Model
+# Linear Regression
+   ### It takes continuous data to figure out the best fitting line
+                        (OR)
+   ### A linear regression is a linear approximation of a casual relationship between two or more variables
+
+
 
 Regression Model has been prepared by using <b>Gretl Analysis Tool</b>.
 
